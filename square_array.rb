@@ -4,10 +4,7 @@ def square_array(array)
   arr = []
   
   array.each do |num|
-  if (num.square?)
-    num
-  else
-    num **2
+  s = Math.sqrt(num)
 end
 end
-end
+
