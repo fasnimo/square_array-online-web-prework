@@ -1,11 +1,7 @@
 
 
 def square_array(array)
-  
-numbers = [1, 4, 9]
-
-
-
- 
+  new_array = []
+  array.each do |num|
 end
 
