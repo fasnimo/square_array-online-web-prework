@@ -1,9 +1,7 @@
 
 
 def square_array(array)
-  arr = [1,2,3]
-  a = [9,10,16,25]
-  
+ arr = []
   array.each_with_index do |num, n|
   num **2
 end
