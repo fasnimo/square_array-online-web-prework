@@ -1,6 +1,6 @@
 
 
-def square_array(new_numbers)
+def square_array(array)
   arr = []
   
   new_numbers.each do |num|
